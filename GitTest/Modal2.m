@@ -8,6 +8,15 @@
 
 #import "Modal2.h"
 
+@interface Modal2 ()
+
+@end
+
 @implementation Modal2
+
+-(void) dealloc
+{
+    
+}
 
 @end
