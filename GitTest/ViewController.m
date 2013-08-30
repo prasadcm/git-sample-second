@@ -17,7 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    self.title = @"sfgsg";
+    self.title = @"Git test";
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
