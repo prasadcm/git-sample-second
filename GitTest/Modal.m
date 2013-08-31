@@ -16,6 +16,6 @@
 
 -(void) method
 {
-    
+    NSLog(@"Hello World");
 }
 @end
