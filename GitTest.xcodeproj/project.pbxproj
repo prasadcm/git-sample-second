@@ -19,6 +19,7 @@
 		B4C2951117CF025500A5AC5A /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4C2950F17CF025500A5AC5A /* MainStoryboard.storyboard */; };
 		B4C2951417CF025500A5AC5A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B4C2951317CF025500A5AC5A /* ViewController.m */; };
 		B4C2951C17CF07DC00A5AC5A /* Modal.m in Sources */ = {isa = PBXBuildFile; fileRef = B4C2951B17CF07DC00A5AC5A /* Modal.m */; };
+		CE97D6E717D1D41600A8E6FB /* Test.m in Sources */ = {isa = PBXBuildFile; fileRef = CE97D6E617D1D41600A8E6FB /* Test.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,8 @@
 		B4C2951317CF025500A5AC5A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		B4C2951A17CF07DC00A5AC5A /* Modal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Modal.h; sourceTree = "<group>"; };
 		B4C2951B17CF07DC00A5AC5A /* Modal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Modal.m; sourceTree = "<group>"; };
+		CE97D6E517D1D41600A8E6FB /* Test.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test.h; sourceTree = "<group>"; };
+		CE97D6E617D1D41600A8E6FB /* Test.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +90,8 @@
 			isa = PBXGroup;
 			children = (
 				B4C2950617CF025500A5AC5A /* AppDelegate.h */,
+				CE97D6E517D1D41600A8E6FB /* Test.h */,
+				CE97D6E617D1D41600A8E6FB /* Test.m */,
 				B4C2950717CF025500A5AC5A /* AppDelegate.m */,
 				B4C2950F17CF025500A5AC5A /* MainStoryboard.storyboard */,
 				B4C2951217CF025500A5AC5A /* ViewController.h */,
@@ -182,6 +187,7 @@
 				B4C2950817CF025500A5AC5A /* AppDelegate.m in Sources */,
 				B4C2951417CF025500A5AC5A /* ViewController.m in Sources */,
 				B4C2951C17CF07DC00A5AC5A /* Modal.m in Sources */,
+				CE97D6E717D1D41600A8E6FB /* Test.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -304,6 +310,7 @@
 				B4C2951917CF025500A5AC5A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
