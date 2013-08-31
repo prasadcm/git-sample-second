@@ -14,4 +14,8 @@
 @end
 @implementation Modal
 
+-(void) method
+{
+    
+}
 @end
