@@ -8,6 +8,10 @@
 
 #import "Modal.h"
 
+@interface Modal ()
+
+@property (nonatomic, copy) NSString *myString;
+@end
 @implementation Modal
 
 @end
