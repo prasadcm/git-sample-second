@@ -19,7 +19,7 @@
 		B4C2951117CF025500A5AC5A /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4C2950F17CF025500A5AC5A /* MainStoryboard.storyboard */; };
 		B4C2951417CF025500A5AC5A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B4C2951317CF025500A5AC5A /* ViewController.m */; };
 		B4C2951C17CF07DC00A5AC5A /* Modal.m in Sources */ = {isa = PBXBuildFile; fileRef = B4C2951B17CF07DC00A5AC5A /* Modal.m */; };
-		CE97D6E717D1D41600A8E6FB /* Test.m in Sources */ = {isa = PBXBuildFile; fileRef = CE97D6E617D1D41600A8E6FB /* Test.m */; };
+		B4F3D0F117D0DC6500B07F3B /* Modal2.m in Sources */ = {isa = PBXBuildFile; fileRef = B4F3D0F017D0DC6500B07F3B /* Modal2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,8 +41,8 @@
 		B4C2951317CF025500A5AC5A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		B4C2951A17CF07DC00A5AC5A /* Modal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Modal.h; sourceTree = "<group>"; };
 		B4C2951B17CF07DC00A5AC5A /* Modal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Modal.m; sourceTree = "<group>"; };
-		CE97D6E517D1D41600A8E6FB /* Test.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test.h; sourceTree = "<group>"; };
-		CE97D6E617D1D41600A8E6FB /* Test.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test.m; sourceTree = "<group>"; };
+		B4F3D0EF17D0DC6500B07F3B /* Modal2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Modal2.h; sourceTree = "<group>"; };
+		B4F3D0F017D0DC6500B07F3B /* Modal2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Modal2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -189,7 +189,7 @@
 				B4C2950817CF025500A5AC5A /* AppDelegate.m in Sources */,
 				B4C2951417CF025500A5AC5A /* ViewController.m in Sources */,
 				B4C2951C17CF07DC00A5AC5A /* Modal.m in Sources */,
-				CE97D6E717D1D41600A8E6FB /* Test.m in Sources */,
+				B4F3D0F117D0DC6500B07F3B /* Modal2.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
