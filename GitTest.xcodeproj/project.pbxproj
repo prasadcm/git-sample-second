@@ -99,6 +99,8 @@
 				B4C294FE17CF025500A5AC5A /* Supporting Files */,
 				B4C2951A17CF07DC00A5AC5A /* Modal.h */,
 				B4C2951B17CF07DC00A5AC5A /* Modal.m */,
+				B4F3D0EF17D0DC6500B07F3B /* Modal2.h */,
+				B4F3D0F017D0DC6500B07F3B /* Modal2.m */,
 			);
 			path = GitTest;
 			sourceTree = "<group>";
