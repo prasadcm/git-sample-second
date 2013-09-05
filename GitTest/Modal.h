@@ -10,4 +10,5 @@
 
 @interface Modal : NSObject
 
+@property (strong) NSString *testString;
 @end
