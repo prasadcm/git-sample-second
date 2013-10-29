@@ -18,4 +18,9 @@
 {
     NSLog(@"Hello World...!");
 }
+
+-(void) method1
+{
+    NSLog(@"Hello World");
+}
 @end
