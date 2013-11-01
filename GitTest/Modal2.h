@@ -10,4 +10,5 @@
 
 @interface Modal2 : NSObject
 
+-(void) method;
 @end
