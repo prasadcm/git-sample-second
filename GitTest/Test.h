@@ -1,14 +1,13 @@
 //
-//  Modal2.h
+//  Test.h
 //  GitTest
 //
-//  Created by BG1MACMINI011 on 30/08/13.
+//  Created by Apple on 31/08/13.
 //  Copyright (c) 2013 Sonata Software Limited. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
 
-@interface Modal2 : NSObject
+@interface Test : NSObject
 
--(void) method;
 @end

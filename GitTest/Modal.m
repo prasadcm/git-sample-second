@@ -8,6 +8,19 @@
 
 #import "Modal.h"
 
+@interface Modal ()
+
+@property (nonatomic, copy) NSString *myString;
+@end
 @implementation Modal
 
+-(void) method
+{
+    NSLog(@"Hello World...!");
+}
+
+-(void) method1
+{
+    NSLog(@"Hello World");
+}
 @end
